@@ -1,0 +1,14 @@
+2019-07-16 17:26:39,991 [main] INFO com.listeners.TestSuitListener - ================== Test Suit Started : SmokeTest ============================
+2019-07-16 17:26:40,676 [main] INFO com.listeners.TestCaseListener - ==================== Test Started...!! ==========================
+2019-07-16 17:26:40,677 [main] INFO com.listeners.TestCaseListener - Test 1 : DashBoardTest
+2019-07-16 17:27:51,508 [main] INFO com.testPages.DashBoardPage - My Account Link Verified..!!
+2019-07-16 17:27:55,591 [main] INFO com.listeners.TestCaseListener - ==================== Test Ended...!! ==========================
+2019-07-16 17:27:55,596 [main] INFO com.listeners.TestCaseListener - ==================== Test Started...!! ==========================
+2019-07-16 17:27:55,604 [main] INFO com.listeners.TestCaseListener - Test 2 : LoginTest
+2019-07-16 17:28:50,058 [main] INFO com.testCases.LoginTest - UserName entered : gauravnaik002@gmail.com
+2019-07-16 17:28:51,706 [main] INFO com.testCases.LoginTest - PassWord entered : gauravnaik002
+2019-07-16 17:29:06,243 [main] INFO com.testCases.LoginTest - Login Successfull..!!
+2019-07-16 17:30:05,622 [main] INFO com.testCases.LoginTest - UserName entered : cbartakke55@gmail.com
+2019-07-16 17:30:07,155 [main] INFO com.testCases.LoginTest - PassWord entered : cbartakke55
+2019-07-16 17:31:01,461 [main] INFO com.listeners.TestCaseListener - ==================== Test Ended...!! ==========================
+2019-07-16 17:31:02,562 [main] INFO com.listeners.TestSuitListener - ================== Test Suit Ended : SmokeTest ============================
